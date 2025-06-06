@@ -17,7 +17,7 @@ A simple Django REST API for managing notes and tags.
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.10.7
 - pip
 
 ### Installation
